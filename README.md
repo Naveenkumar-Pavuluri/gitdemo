@@ -1,2 +1,2 @@
 # gitdemo
-read me fie
+read me file
